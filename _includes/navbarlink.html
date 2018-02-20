@@ -4,6 +4,7 @@
 {% if before != after %}
   {% if before == "http" or before == "https" %}
     {% assign internal = false %}
+    {% linkurl = linkurl + ' target="_blank"' %}
   {% endif %}
 {% endif %}
 
