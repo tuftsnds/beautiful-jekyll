@@ -4,4 +4,4 @@ title: Sponsors
 subtitle: 
 ---
 
-# COMING SOON!
+<a href="https://nutrition.tufts.edu/"><img src="/img/sponsors/friedman_recolor.png" width="200"></a>
