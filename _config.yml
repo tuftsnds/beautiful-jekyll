@@ -23,7 +23,7 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
-  About: "about"
+  About: 
     - Team: "team"
     - Goals: "goals"
     - Mission: "mission"
