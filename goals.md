@@ -19,3 +19,9 @@ The tools and techniques of nutrition data sciences have often been separated fr
 ## Increase Data Science Literacy in Nutrition
 
 The nutrition field currently faces the universal challenge of exponentially increasing computational capabilities and data volumes. Impact of big data in this field is broad, and reaches several billion people through nutrition programming, interventions, and food systems modeling. However, nutrition experts and statistical analysts often remain siphoned in their work, the former lacking expertise to complete intensive computations while the latter lacking the issue area expertise on nutrition. For this reason, we wish to bring both parties together to build a common dictionary of terminology that can be referenced, reviewed, and resurfaced for clearly communications in the future. This holds true for even professionals within different disciplines in nutrition and will allow for greater intra- as well as inter-disciplinary collaborations.
+
+The goals align with the Friedman School's Strategic Plan in the following ways:
+
+!()[https://image.isu.pub/170816152139-8eb88855589181c3c7b6c7fb4f66cc9c/jpg/page_1.jpg]
+
+
