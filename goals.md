@@ -22,6 +22,6 @@ The nutrition field currently faces the universal challenge of exponentially inc
 
 The goals align with the Friedman School's Strategic Plan in the following ways:
 
-<img src="/img/strategicplan.jpg" width="600">
+<img src="/img/strategicplan.jpg" width="800">
 
 
