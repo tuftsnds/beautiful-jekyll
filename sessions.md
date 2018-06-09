@@ -8,10 +8,7 @@ subtitle:
   <summary><h2>Day 1</h2></summary>
 <br>
   <details open>
-  <summary>
-    <h3>Session 1: Challenges, Opportunities, and Myths in Data science</h3>
-  </summary>
-  <br>
+  <summary><h3>Session 1: Challenges, Opportunities, and Myths in Data science</h3></summary>
     DETAILS 1
   <details>  
   
