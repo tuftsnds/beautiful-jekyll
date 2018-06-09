@@ -7,12 +7,12 @@ subtitle:
 ## Day 1
 
 <details>
-  <br>
+  <summary><h2 style="display:inline-block">Day 1</h2></summary>
+
   <details>
     <summary><h3 style="display:inline-block">Session 1: Challenges, Opportunities, and Myths in Data Science</h3></summary>
 
     DETAILS 1
-    
     
   </details>  
   
