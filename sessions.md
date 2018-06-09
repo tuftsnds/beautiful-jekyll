@@ -7,9 +7,18 @@ subtitle:
 <details open>
 <summary>Day 1</summary>
 <br>
-Session 1
-Session 2
-Session 3
+  <details open>
+    Session 1: Challenges, Opportunities, and Myths in Data science
+  <details>
+  <details open>
+    Session 2: Nutrition Data Sharing: Perspectives in Government, NGOs, and Academia
+  <details>
+  <details open>
+    Session 3: Standardization of Anthropometric Measurements
+  <details>
+  <details open>
+    Session 4: Big Data Challenges in Biochemical and Molecular Nutrition
+  <details>
 <details>
 
 
