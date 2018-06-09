@@ -15,7 +15,7 @@ subtitle:
   </details>  
   
   <details>
-  <summary><h4 style="display:inline-block">Nutrition Data Sharing: Perspectives in Govt, NGOs, & Academia </h4></summary>
+  <summary><h3 style="display:inline-block">Nutrition Data Sharing</h3></summary>
   
   DETAILS 2
   
@@ -29,7 +29,7 @@ subtitle:
   </details>
   
   <details>
-  <summary><h4 style="display:inline-block">Big Data Challenges in Biochemical & Molecular Nutrition</h4></summary>
+  <summary><h3 style="display:inline-block">Big Data Challenges in Molecular Nutrition</h3></summary>
 
   DETAILS 4
   
