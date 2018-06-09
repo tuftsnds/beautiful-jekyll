@@ -5,11 +5,11 @@ subtitle:
 ---
 
 <details open>
-  <summary><h2>Day 1</h2></summary>
+  <h2><summary>Day 1</summary></h2>
   <br>
   
   <details open>
-  <summary><h3>Session 1: Challenges, Opportunities, and Myths in Data science</h3></summary>
+  <h3><summary>Session 1: Challenges, Opportunities, and Myths in Data science</summary></h3>
     <br>
     DETAILS 1
   <details>  
