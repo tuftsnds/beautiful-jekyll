@@ -7,9 +7,14 @@ subtitle:
 <details open>
   <summary><h2>Day 1</h2></summary>
 <br>
+  <details open>
   <summary>
     <h3>Session 1: Challenges, Opportunities, and Myths in Data science</h3>
   </summary>
+  <br>
+    DETAILS 1
+  <details>  
+  
   <summary>
     <h3>Session 2: Nutrition Data Sharing: Perspectives in Government, NGOs, and Academia</h3>
   </summary>
