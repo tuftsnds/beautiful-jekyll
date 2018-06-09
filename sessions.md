@@ -4,15 +4,14 @@ title: Sessions
 subtitle: 
 ---
 
+## Day 1
+
 <details>
-  <h2><summary>Day 1</summary></h2>
   <br>
-  
   <details>
   <h3><summary>Session 1: Challenges, Opportunities, and Myths in Data science</summary></h3>
-  
+  <br>
     DETAILS 1
-    
   </details>  
   
   <details>
