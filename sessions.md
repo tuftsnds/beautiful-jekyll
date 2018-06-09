@@ -9,7 +9,7 @@ subtitle:
 <details>
   <br>
   <details>
-    <summary><h3 style="display:inline-block"> Session 1: Challenges, Opportunities, and Myths in Data Science </h1></summary>
+    <summary><h3 style="display:inline-block">Session 1: Challenges, Opportunities, and Myths in Data Science</h3></summary>
     <br>
     DETAILS 1
   </details>  
