@@ -15,20 +15,20 @@ subtitle:
   </details>  
   
   <details>
-  <summary><h3>Session 2: Nutrition Data Sharing: Perspectives in Government, NGOs, and Academia</h3></summary>
+  <summary><h3 style="display:inline-block">Session 2: Nutrition Data Sharing: Perspectives in Government, NGOs, and Academia</h3></summary>
 
   DETAILS 2
   
   <details>
   
   <details>
-  <summary><h3>Session 3: Standardization of Anthropometric Measurements</h3></summary>
+  <summary><h3 style="display:inline-block">Session 3: Standardization of Anthropometric Measurements</h3></summary>
   <br>
   DETAILS 3
   <details>
   
   <details>
-  <summary><h3>Session 4: Big Data Challenges in Biochemical and Molecular Nutrition</h3></summary>
+  <summary><h3 style="display:inline-block">Session 4: Big Data Challenges in Biochemical and Molecular Nutrition</h3></summary>
   <br>
   DETAILS 4
   <details>
