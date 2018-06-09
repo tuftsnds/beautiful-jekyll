@@ -4,8 +4,6 @@ title: Sessions
 subtitle: 
 ---
 
-## Day 1
-
 <details>
   <summary><h2 style="display:inline-block">Day 1</h2></summary>
 
