@@ -37,4 +37,44 @@ subtitle:
   
 </details>
 
+<details>
+  <summary><h2 style="display:inline-block">Day 2</h2></summary>
+
+  <details>
+    <summary><h3 style="display:inline-block">Challenges in Applied Nutrition Sciences</h3></summary>
+
+    DETAILS 1
+    
+  </details>  
+  
+  <details>
+  <summary><h3 style="display:inline-block">Harnessing the Power of Geospatial Data in Nutrition</h3></summary>
+  
+  DETAILS 2
+  
+  </details>
+  
+  <details>
+  <summary><h3 style="display:inline-block">Nutrition in Humanitarian Emergencies</h3></summary>
+  
+  DETAILS 3
+  
+  </details>
+  
+</details>
+
+
+<details>
+  <summary><h2 style="display:inline-block">Day 3</h2></summary>
+
+  <details>
+    <summary><h3 style="display:inline-block">The Future of Nutrition Technology</h3></summary>
+
+    DETAILS 1
+    
+  </details>  
+  
+</details>
+
+
 All session participants are expected to adhere to the [Tufts University Code of Conduct](https://students.tufts.edu/student-affairs/student-life-policies/code-conduct)
