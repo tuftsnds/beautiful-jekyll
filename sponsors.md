@@ -17,7 +17,7 @@ Food donations courtesy of:
 <br><br>
 <img src="/img/sponsors/redapplefarms.png" width="250"  align="center">          <img src="/img/sponsors/apm_coffee.png" width="300"  align="center">
 <br><br>
-<img src="/img/sponsors/equalexchange.png" width="400"  align="center">
+<img src="/img/sponsors/equalexchange.png" width="300"  align="center">
 <br><br>
 
 Interested in sponsoring the Nutrition Data Summit? Refer to our sponsorship packages <a href="tuftsnds.github.io/img/partners/[NDS] Sponsorship & Partnership Packages.pdf" download="NDSPartnershipPackages.pdf">here</a>
