@@ -8,27 +8,18 @@ subtitle:
 
 ![](/img/partners/tie_env_brunch.jpg)
 
-<h3>[BCASA] Sept 25, 2018: Boston Chapter of the ASA Event to Celebrate Outstanding Undergraduate Teaching of Statistics</h3>
+<h3>[BCASA] Sept 25, 2018: [Boston Chapter of the ASA](http://community.amstat.org/bostonchapter/home) Event to Celebrate Outstanding Undergraduate Teaching of Statistics</h3>
+
+<p><img src="https://www.amherst.edu/system/files/styles/original/private/media/photo/1545596.jpg" width="400px" align="right">
 
 Speaker: Professor Nick Horton, Amherst College 
 Presentation Title: “Introductory Statistics in a World of Data Science: Where We Are and Where We Need to Head”
-
 Date and Time:  Tuesday, September 25, 2018; 4:30 – 6:30 PM 
-Location:  Brown University School of Public Health,  121 South Main Street, Providence, RI 02903. Room number will be provided as you enter the building. 
-Directions and Site Map: Please Google 121 South Main Street, Providence, RI
-Parking:.There is a parking garage in the building (https://www.lazparking.com/local/providence-ri/121-south-main-street). There is various street parking around it as well. 
-
-Note: A reception with a light dinner will follow the presentation.
+Location:  Brown University School of Public Health,  121 South Main Street, Providence, RI 02903. 
 Cost: $6 for students; $12 for non-students. 
 Registration: http://bcasa2018horton.eventbrite.com. Registration requested by September 21. 
 
-Presentation Abstract:  
-
-This is an exciting time for the broader statistics profession, with a flood of data available in myriad domains and an increased focus on the importance of data literacy and data science. There continues to be growth in the number of students taking statistics courses and the development of many innovative data science courses. This talk will survey the landscape of introductory statistics and biostatistics courses in an era of data science, and address questions regarding the role of computation, how to balance the needs of general education students and future statistics and data science students, the role of the statistical analysis cycle, pathways to support student success, faculty development, and the relationships between high school and college preparation. These developments have important implications not just for educators but for practitioners and researchers as well.
-
-Speaker Biography:  
-
-Nicholas Horton is Beitzel Professor of Technology and Society and Professor of Statistics at Amherst College. His research involves the development and application of statistical methods with applications in psychiatric epidemiology and substance abuse research.  Much of his work in recent years has focused on statistics and data science education.  He is a fellow of the American Statistical Association and the American Assocation for the Advancement of Science and recipient of the ASA's Founder’s Award for Distinguished Service.  He has held numerous leadership positions including Chair of the Committee of Presidents of Statistical Societies and chair of the ASA Curriculum Guidelines for Undergraduate Programs in Statistical Science workgroup.  Nick serves on the National Academies Committee for Applied and Theoretical Statistics and is a co-author of the recently published "Undergraduate Data Science: Opportunities and Options" consensus study report. 
+<i>Abstract:</i> This is an exciting time for the broader statistics profession, with a flood of data available in myriad domains and an increased focus on the importance of data literacy and data science. There continues to be growth in the number of students taking statistics courses and the development of many innovative data science courses. This talk will survey the landscape of introductory statistics and biostatistics courses in an era of data science, and address questions regarding the role of computation, how to balance the needs of general education students and future statistics and data science students, the role of the statistical analysis cycle, pathways to support student success, faculty development, and the relationships between high school and college preparation. These developments have important implications not just for educators but for practitioners and researchers as well.</p>
 
 <h3>[BCASA] Oct 19, 2018: An Introduction to the Analysis of Incomplete Data</h3>
 
