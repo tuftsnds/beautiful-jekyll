@@ -10,7 +10,7 @@ subtitle:
 
 <h3>[BCASA] Sept 25, 2018: Boston Chapter of the ASA Event to Celebrate Outstanding Undergraduate Teaching of Statistics</h3>
 
-<p><img src="https://www.amherst.edu/system/files/styles/original/private/media/photo/1545596.jpg" width="200px" align="right">
+<p><img src="https://www.amherst.edu/system/files/styles/original/private/media/photo/1545596.jpg" width="200px" align="right" hspace="5">
 
 Speaker: <a href="https://www.amherst.edu/people/facstaff/nhorton">Professor Nick Horton, Amherst College</a>
 <br>
@@ -29,11 +29,11 @@ Registration requested by September 21. <a href="http://bcasa2018horton.eventbri
 
 <h3>[BCASA] Oct 19, 2018: An Introduction to the Analysis of Incomplete Data</h3>
 
-<p><img src="https://i1.rgstatic.net/ii/profile.image/277557917306890-1443186372601_Q512/Ofer_Harel.jpg" width="200px" align="left">
+<p><img src="https://i1.rgstatic.net/ii/profile.image/277557917306890-1443186372601_Q512/Ofer_Harel.jpg" width="200px" align="left" hspace="5">
 
 Course title: An Introduction to the Analysis of Incomplete Data
 <br>
-Instructor: <a href=https://stat.uconn.edu/ofer-harel/>Professor Ofer Harel, University of Connecticut</a>
+Instructor: <a href="https://stat.uconn.edu/ofer-harel/">Professor Ofer Harel, University of Connecticut</a>
 <br>
 Organizer: American Statistical Association Council of Chapters
 <br>
@@ -52,7 +52,7 @@ Cost: Boston ASA Chapter members: $70; Non-members: $85; Students: $30 (with val
 
 <h3>[BCASA] Nov 14, 2018: Presentation by Professor Susan Murphy</h3>
 
-<p><img src="https://methodology.psu.edu/sites/all/images/people/scientists/smurphy/sam.jpg" width="200px" align="right">
+<p><img src="https://methodology.psu.edu/sites/all/images/people/scientists/smurphy/sam.jpg" width="200px" align="right" hspace="5">
 
 Title: “Stratified Micro-Randomized Trials with Applications in Mobile Health”
 <br>
@@ -65,9 +65,8 @@ Date & Time: Wednesday, November 14, 2018. Social and light Dinner 6:15 pm; Pres
 Location: Room E51-149; MIT Tang Center; 70 Memorial Drive, Cambridge
 <br>
 Registration requested by 10 am, November 12, 2018. <a href="https://bcasa2018nov.eventbrite.com">Registration Link</a> 
-
 <br>
 Cost: Dinner $7 for students; $12 for non-students. 
-<br>
+<br><br>
 
 <i>Abstract:</i> Technological advancements in the field of mobile devices and wearable sensors make it possible to deliver treatments anytime and anywhere to users like you and me. Increasingly the delivery of these treatments is triggered by detections/predictions of vulnerability and receptivity. These observations are likely to have been impacted by prior treatments. Furthermore, the treatments are often designed to have an impact on users over a span of time during which subsequent treatments may be provided. Here we discuss our work on the design of a mobile health smoking cessation study in which the above two challenges arose. This work involves the use of multiple online data analysis algorithms. Online algorithms are used in the detection, for example, of physiological stress. Other algorithms are used to forecast at each vulnerable time, the remaining number of vulnerable times in the day. These algorithms are then inputs into a randomization algorithm that ensures that each user is randomized to each treatment an appropriate number of times per day. We develop the stratified micro-randomized trial which involves not only the randomization algorithm but a precise statement of the meaning of the treatment effects and the primary scientific hypotheses along with primary analyses and sample size calculations. Considerations of causal inference and potential causal bias incurred by inappropriate data analyses play a large role throughout.</p>
