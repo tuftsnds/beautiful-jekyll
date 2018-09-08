@@ -6,6 +6,7 @@ subtitle:
 
 <a href="https://nutrition.tufts.edu/"><img src="/img/sponsors/friedman_recolor.png" width="200"  hspace="20"></a>
 <a href="http://environment.tufts.edu/"><img src="/img/sponsors/tie_recolor.png" width="200"  hspace="20"></a>
+<br>
 <a href="https://sites.tufts.edu/tuftsasa/"><img src="/img/sponsors/asat.png" width="350"  hspace="20"></a>
 
 Food donations courtesy of:
