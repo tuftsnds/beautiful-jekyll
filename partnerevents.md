@@ -10,7 +10,7 @@ subtitle:
 
 <h3>[BCASA] Sept 25, 2018: Boston Chapter of the ASA Event to Celebrate Outstanding Undergraduate Teaching of Statistics</h3>
 
-<p><img src="https://www.amherst.edu/system/files/styles/original/private/media/photo/1545596.jpg" width="200px" align="right" hspace="5">
+<p><img src="https://www.amherst.edu/system/files/styles/original/private/media/photo/1545596.jpg" width="200px" align="right" hspace="10">
 
 Speaker: <a href="https://www.amherst.edu/people/facstaff/nhorton">Professor Nick Horton, Amherst College</a>
 <br>
@@ -29,13 +29,11 @@ Registration requested by September 21. <a href="http://bcasa2018horton.eventbri
 
 <h3>[BCASA] Oct 19, 2018: An Introduction to the Analysis of Incomplete Data</h3>
 
-<p><img src="https://i1.rgstatic.net/ii/profile.image/277557917306890-1443186372601_Q512/Ofer_Harel.jpg" width="200px" align="left" hspace="5">
+<p><img src="https://i1.rgstatic.net/ii/profile.image/277557917306890-1443186372601_Q512/Ofer_Harel.jpg" width="200px" align="left" hspace="10">
 
-Course title: An Introduction to the Analysis of Incomplete Data
-<br>
 Instructor: <a href="https://stat.uconn.edu/ofer-harel/">Professor Ofer Harel, University of Connecticut</a>
 <br>
-Organizer: American Statistical Association Council of Chapters
+Organizer: <a href="http://community.amstat.org/coc/home">American Statistical Association Council of Chapters</a>
 <br>
 Co-sponsors: <a href="http://community.amstat.org/bostonchapter/home">Boston Chapter of the ASA (BCASA)</a> & <a href="https://www.bu.edu/stat/bu-student-chapter-of-the-asa/">BU student Chapter of the ASA (BUSCASA)</a>
 <br>
@@ -45,7 +43,7 @@ Date & Time: October 19, 2018. Sign-in 8:30-9:00 AM, Presentation 9:15 AM-4:30 P
 <br>
 Registration requested by October 15. <a href="http://bcasa2018IncompleteData.eventbrite.com">Registration Link</a> 
 <br>
-Cost: Boston ASA Chapter members: $70; Non-members: $85; Students: $30 (with valid Student ID) 
+Cost: Boston ASA members: $70; Non-members: $85; Students: $30
 <br></br><br></br>
 
 <i>Abstract:</i> Missing data is a common complication in applied research. Although most practitioners are still ignoring the missing data problem, numerous books and research articles demonstrate that dealing with it correctly is very important. Biased results and inefficient estimates are just some of the risks of incorrectly dealing with incomplete data. In this course, we will introduce incomplete data vocabulary and present problems and solutions to the missing data issue. We will emphasize practical implementation of the proposed strategies including discussion of software to implement procedures for incomplete data.</p>
