@@ -12,7 +12,7 @@ subtitle:
 
 <p><img src="https://www.amherst.edu/system/files/styles/original/private/media/photo/1545596.jpg" width="200px" align="right">
 
-Speaker: <a href=https://www.amherst.edu/people/facstaff/nhorton>Professor Nick Horton, Amherst College</a>
+Speaker: <a href="https://www.amherst.edu/people/facstaff/nhorton">Professor Nick Horton, Amherst College</a>
 <br>
 Presentation Title: “Introductory Statistics in a World of Data Science: Where We Are and Where We Need to Head”
 <br>
