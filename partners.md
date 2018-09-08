@@ -8,4 +8,4 @@ subtitle:
 
 <a href="http://www.lcs.tufts.edu/"><img src="/img/partners/lcs.png" width="250"></a>                  <a href="http://fic.tufts.edu/"><img src="/img/partners/feinstein.png" width="250"></a>
 
-Interested in partering with the Nutrition Data Summit? Refer to our partnership packages (here)["/img/partners/%5BNDS%5D%20Sponsorship%20%26%20Partnership%20Packages.pdf"].
+Interested in partering with the Nutrition Data Summit? Refer to our partnership packages [here](/img/partners/%5BNDS%5D%20Sponsorship%20%26%20Partnership%20Packages.pdf).
