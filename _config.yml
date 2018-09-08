@@ -23,6 +23,7 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
+  Register: "https://bit.ly/tuftsndsreg"
   About: 
     - Team: "team"
     - Goals: "goals"
