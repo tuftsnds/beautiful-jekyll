@@ -12,7 +12,7 @@ subtitle:
 
 <p><img src="https://www.amherst.edu/system/files/styles/original/private/media/photo/1545596.jpg" width="200px" align="right">
 
-Speaker: [Professor Nick Horton, Amherst College](https://www.amherst.edu/people/facstaff/nhorton)
+Speaker: <a href=https://www.amherst.edu/people/facstaff/nhorton>Professor Nick Horton, Amherst College</a>
 <br>
 Presentation Title: “Introductory Statistics in a World of Data Science: Where We Are and Where We Need to Head”
 <br>
@@ -22,7 +22,7 @@ Location:  Brown University School of Public Health,  121 South Main Street, Pro
 <br>
 Cost: $6 for students; $12 for non-students.
 <br>
-Registration requested by September 21. [Registration Link](http://bcasa2018horton.eventbrite.com)
+Registration requested by September 21. <a href="http://bcasa2018horton.eventbrite.com">Registration Link</a>
 <br>
 
 <i>Abstract:</i> This is an exciting time for the broader statistics profession, with a flood of data available in myriad domains and an increased focus on the importance of data literacy and data science. There continues to be growth in the number of students taking statistics courses and the development of many innovative data science courses. This talk will survey the landscape of introductory statistics and biostatistics courses in an era of data science, and address questions regarding the role of computation, how to balance the needs of general education students and future statistics and data science students, the role of the statistical analysis cycle, pathways to support student success, faculty development, and the relationships between high school and college preparation. These developments have important implications not just for educators but for practitioners and researchers as well.</p>
@@ -33,17 +33,17 @@ Registration requested by September 21. [Registration Link](http://bcasa2018hort
 
 Course title: An Introduction to the Analysis of Incomplete Data
 <br>
-Instructor: [Professor Ofer Harel, University of Connecticut](https://stat.uconn.edu/ofer-harel/)
+Instructor: <a href=https://stat.uconn.edu/ofer-harel/>Professor Ofer Harel, University of Connecticut</a>
 <br>
 Organizer: American Statistical Association Council of Chapters
 <br>
-Co-sponsors: [Boston Chapter of the ASA (BCASA)](http://community.amstat.org/bostonchapter/home) & [BU student Chapter of the ASA (BUSCASA)](https://www.bu.edu/stat/bu-student-chapter-of-the-asa/)
+Co-sponsors: <a href="http://community.amstat.org/bostonchapter/home">Boston Chapter of the ASA (BCASA)</a> & <a href="https://www.bu.edu/stat/bu-student-chapter-of-the-asa/">BU student Chapter of the ASA (BUSCASA)</a>
 <br>
 Location: Boston University, Sargent College Room 101, 635 Commonwealth Avenue, Boston. 
 <br>
 Date & Time: October 19, 2018. Sign-in 8:30-9:00 AM, Presentation 9:15 AM-4:30 PM
 <br>
-Registration requested by October 15. [Registration Link](http://bcasa2018IncompleteData.eventbrite.com) 
+Registration requested by October 15. <a href="http://bcasa2018IncompleteData.eventbrite.com">Registration Link</a> 
 <br>
 Cost: Boston ASA Chapter members: $70; Non-members: $85; Students: $30 (with valid Student ID) 
 <br>
@@ -56,13 +56,15 @@ Cost: Boston ASA Chapter members: $70; Non-members: $85; Students: $30 (with val
 
 Title: “Stratified Micro-Randomized Trials with Applications in Mobile Health”
 <br>
-Co-Sponsors: Boston Chapter of the ASA; Department of Mathematics & Statistics at Boston University; and the IDSS Institute at MIT	 
+Presenter: <a href="https://www.seas.harvard.edu/directory/samurphy">Susan Murphy, Harvard University</a>
+<br>
+Co-Sponsors: <a href="http://community.amstat.org/bostonchapter/home">Boston Chapter of the ASA</a>, <a href="http://www.bu.edu/math/">Department of Mathematics & Statistics at Boston University</a>, and the <a href="https://idss.mit.edu/">IDSS Institute at MIT</a>
 <br>
 Date & Time: Wednesday, November 14, 2018. Social and light Dinner 6:15 pm; Presentation 7:00 pm
 <br>
 Location: Room E51-149; MIT Tang Center; 70 Memorial Drive, Cambridge
 <br>
-Registration requested by 10 am, November 12, 2018. [Registration Link](https://bcasa2018nov.eventbrite.com) 
+Registration requested by 10 am, November 12, 2018. <a href="https://bcasa2018nov.eventbrite.com">Registration Link</a> 
 
 <br>
 Cost: Dinner $7 for students; $12 for non-students. 
