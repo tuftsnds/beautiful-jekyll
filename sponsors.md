@@ -18,4 +18,5 @@ Food donations courtesy of:
 <img src="/img/sponsors/redapplefarms.png" width="250"  align="center">          <img src="/img/sponsors/apm_coffee.png" width="300"  align="center"></a>
 <br><br>
 
-Interested in sponsoring the Nutrition Data Summit? Refer to our sponsorship packages  <a href="https://github.com/tuftsnds/tuftsnds.github.io/blob/master/img/partners/%5BNDS%5D%20Sponsorship%20%26%20Partnership%20Packages.pdf" target="_blank">here</a>.
+Interested in sponsoring the Nutrition Data Summit? Refer to our sponsorship packages <a href="img/partners/%5BNDS%5D%20Sponsorship%20%26%20Partnership%20Packages.pdf" download="%5BNDS%5D%20Sponsorship%20%26%20Partnership%20Packages.pdf">here</a>
+
