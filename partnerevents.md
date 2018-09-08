@@ -22,7 +22,7 @@ Location:  Brown University School of Public Health,  121 South Main Street, Pro
 <br>
 Cost: $6 for students; $12 for non-students.
 <br>
-[Registration Link](http://bcasa2018horton.eventbrite.com) Registration requested by September 21. 
+Registration requested by September 21. [Registration Link](http://bcasa2018horton.eventbrite.com)
 <br>
 
 <i>Abstract:</i> This is an exciting time for the broader statistics profession, with a flood of data available in myriad domains and an increased focus on the importance of data literacy and data science. There continues to be growth in the number of students taking statistics courses and the development of many innovative data science courses. This talk will survey the landscape of introductory statistics and biostatistics courses in an era of data science, and address questions regarding the role of computation, how to balance the needs of general education students and future statistics and data science students, the role of the statistical analysis cycle, pathways to support student success, faculty development, and the relationships between high school and college preparation. These developments have important implications not just for educators but for practitioners and researchers as well.</p>
@@ -43,7 +43,7 @@ Location: Boston University, Sargent College Room 101, 635 Commonwealth Avenue, 
 <br>
 Date & Time: October 19, 2018. Sign-in 8:30-9:00 AM, Presentation 9:15 AM-4:30 PM
 <br>
-[Registration Link](http://bcasa2018IncompleteData.eventbrite.com) Registration requested by October 15.
+Registration requested by October 15. [Registration Link](http://bcasa2018IncompleteData.eventbrite.com) 
 <br>
 Cost: Boston ASA Chapter members: $70; Non-members: $85; Students: $30 (with valid Student ID) 
 <br>
@@ -62,7 +62,7 @@ Date & Time: Wednesday, November 14, 2018. Social and light Dinner 6:15 pm; Pres
 <br>
 Location: Room E51-149; MIT Tang Center; 70 Memorial Drive, Cambridge
 <br>
-[Registration Link](https://bcasa2018nov.eventbrite.com) Registration requested by 10 am, November 12, 2018.
+Registration requested by 10 am, November 12, 2018. [Registration Link](https://bcasa2018nov.eventbrite.com) 
 
 <br>
 Cost: Dinner $7 for students; $12 for non-students. 
