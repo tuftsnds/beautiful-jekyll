@@ -10,7 +10,7 @@ subtitle:
 
 <h3>[BCASA] Sept 25, 2018: Boston Chapter of the ASA Event to Celebrate Outstanding Undergraduate Teaching of Statistics</h3>
 
-<img src="https://www.amherst.edu/system/files/styles/original/private/media/photo/1545596.jpg" width="200px" align="right">
+<p><img src="https://www.amherst.edu/system/files/styles/original/private/media/photo/1545596.jpg" width="200px" align="right">
 
 Speaker: [Professor Nick Horton, Amherst College](https://www.amherst.edu/people/facstaff/nhorton)
 Presentation Title: “Introductory Statistics in a World of Data Science: Where We Are and Where We Need to Head”
@@ -19,7 +19,7 @@ Location:  Brown University School of Public Health,  121 South Main Street, Pro
 Cost: $6 for students; $12 for non-students. 
 Registration: http://bcasa2018horton.eventbrite.com. Registration requested by September 21. 
 
-<i>Abstract:</i> This is an exciting time for the broader statistics profession, with a flood of data available in myriad domains and an increased focus on the importance of data literacy and data science. There continues to be growth in the number of students taking statistics courses and the development of many innovative data science courses. This talk will survey the landscape of introductory statistics and biostatistics courses in an era of data science, and address questions regarding the role of computation, how to balance the needs of general education students and future statistics and data science students, the role of the statistical analysis cycle, pathways to support student success, faculty development, and the relationships between high school and college preparation. These developments have important implications not just for educators but for practitioners and researchers as well.
+<i>Abstract:</i> This is an exciting time for the broader statistics profession, with a flood of data available in myriad domains and an increased focus on the importance of data literacy and data science. There continues to be growth in the number of students taking statistics courses and the development of many innovative data science courses. This talk will survey the landscape of introductory statistics and biostatistics courses in an era of data science, and address questions regarding the role of computation, how to balance the needs of general education students and future statistics and data science students, the role of the statistical analysis cycle, pathways to support student success, faculty development, and the relationships between high school and college preparation. These developments have important implications not just for educators but for practitioners and researchers as well.</p>
 
 <h3>[BCASA] Oct 19, 2018: An Introduction to the Analysis of Incomplete Data</h3>
 
