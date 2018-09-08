@@ -8,9 +8,9 @@ subtitle:
 
 ![](/img/partners/tie_env_brunch.jpg)
 
-<h3>[BCASA] Sept 25, 2018: [Boston Chapter of the ASA](http://community.amstat.org/bostonchapter/home) Event to Celebrate Outstanding Undergraduate Teaching of Statistics</h3>
+<h3>[BCASA] Sept 25, 2018: Boston Chapter of the ASA Event to Celebrate Outstanding Undergraduate Teaching of Statistics</h3>
 
-<p><img src="https://www.amherst.edu/system/files/styles/original/private/media/photo/1545596.jpg" width="200px" align="right">
+<p><a href="https://www.amherst.edu/people/facstaff/nhorton"><img src="https://www.amherst.edu/system/files/styles/original/private/media/photo/1545596.jpg" width="200px" align="right"></a>
 
 Speaker: Professor Nick Horton, Amherst College 
 Presentation Title: “Introductory Statistics in a World of Data Science: Where We Are and Where We Need to Head”
