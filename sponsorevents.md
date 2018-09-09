@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Partner Events
+title: Sponsor Events
 subtitle: 
 ---
 
