@@ -34,7 +34,7 @@ navbar-links:
     - Speakers: "speakers"
   Sponsors: 
     - Sponsors: "sponsors"
-    - Sponsor Events: "partnerevents"
+    - Sponsor Events: "sponsorevents"
   Partners: "partners"
   
 # Image to show in the navigation bar - image must be a square (width = height)
