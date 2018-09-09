@@ -31,7 +31,7 @@ subtitle:
   <details>
   <summary><h3 style="display:inline-block">Big Data Challenges in Molecular Nutrition</h3></summary>
 
-  DETAILS 4
+  This session discusses the opportunities for utilizing a diverse array of big data to establish precision nutrition health interventions. As chronic diseases become evermore present worldwide, effective prevention and management strategies have targeted the leading risk factor: poor nutrition. Precision nutrition, also known as personalized nutrition, considers a set of factors pertinent to the individual and responses to his/her environment. These include areas of biochemical and molecular sciences focused on human genetics, nutritional genetics (nutrigenomics), microbiome, and metabolome studies. We seek to highlight the complexities in data management for these big data challenges and discuss the complex adaptive statistical systems used to describe their behaviors. Despite assessing the challenges of manipulating and analyzing these data, the session aims to address the incredible opportunities of this information in the health system. We further hope to address how such individualized information can be generalized for wider application at the population level.
   
   </details>
   
@@ -50,7 +50,7 @@ subtitle:
   <details>
   <summary><h3 style="display:inline-block">Harnessing the Power of Geospatial Data in Nutrition</h3></summary>
   
-  DETAILS 2
+  This session discusses important advancements in data science technologies to record, manage, and evaluate nutritional information changing over both time and space. Much nutrition research is intervention or program specific: the same geographic area receives treatments at varying intervals of time. However, research related to agriculture, the environment, and even food- or waterborne disease must account for variations of nutrition outcomes over space as well. These studies utilize more complex statistical techniques to capture and model spatial statistics such as geographic information systems, remote sensing, agent-based modeling, random walk probabilistic networks, and Marchov Chains. We seek to highlight three aspects of harnessing geospatial data: i) the technologies available to collect information; ii) the resources to access such information; and iii) the statistical procedures to analyze spatial relationships. This session will urge participants to integrate geospatial data more frequently into their analyses to capture the spatiotemporal complexity of system-based research. 
   
   </details>
   
@@ -72,7 +72,16 @@ subtitle:
 
     This plenary session will provide perspectives on the changing nature of the nutrition field. The panel will consist of nutrition technology entrepreneurs primarily from the Greater Boston area. Panelists will discuss present and upcoming advances in the nutrition field, and provide guidance for aspiring researchers and entrepreneurs on how to shape this future. This session will be followed by a professional networking event featuring startups, consultancies, and research opportunities in nutrition data sciences.
     
-  </details>  
+  </details>
+  
+
+  <details>
+    <summary><h3 style="display:inline-block">Professional Networking Session</h3></summary>
+
+    The competitive nature of entrepreneurship creates an essential iterative process of developing and advancing nutrition technologies. Validating these new designs, processes, systems, and products depends upon exceptional utilization of data sciences. Even further, many of these technologies may help to better process, manage, and comprehend big data for nutrition-based applications. We host this luncheon event to foster connections, collaborations, and creative thinking between academics and entrepreneurs with both skills and experiences in data sciences. 
+    
+  </details>
+  
   
 </details>
 
