@@ -11,6 +11,8 @@ subtitle:
 
 Food donations courtesy of:
 
+<img src="/img/sponsors/stonyfield.png" width="600"  align="center">
+<br><br>
 <img src="/img/sponsors/boston_microgreens.png" width="600"  align="center">
 <br><br>
 <img src="/img/sponsors/roche_bros.png" width="500"  align="center">
