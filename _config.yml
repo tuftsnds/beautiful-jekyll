@@ -32,6 +32,7 @@ navbar-links:
     - Program: "program"
     - Sessions: "sessions"
     - Speakers: "speakers"
+    - Simulation: "simulation"
   Sponsors: 
     - Sponsors: "sponsors"
     - Sponsor Events: "sponsorevents"
