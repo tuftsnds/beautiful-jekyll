@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Simulation 
-subtitle: 
+title:  
+subtitle: A Simulated Famine Analysis using the Integrated Food Security Phase Classification System
 ---
 
-## Humanitarian Emergency Simulation
 ### Session Leads: [Dr. Dan Maxwell](http://fic.tufts.edu/team/daniel-maxwell/) & [Erin Boyd](https://nutrition.tufts.edu/profile/faculty/erin-boyd)
 ### Facilitator: [Anastasia Marshak](http://fic.tufts.edu/team/anastasia-marshak/)
 <br>
