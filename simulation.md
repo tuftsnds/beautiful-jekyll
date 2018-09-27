@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  
-subtitle: A Simulated Famine Analysis using the Integrated Food Security Phase Classification System
+title:  A Simulated Famine Analysis using the Integrated Food Security Phase Classification System
+subtitle: 
 ---
 
 ### Session Leads: [Dr. Dan Maxwell](http://fic.tufts.edu/team/daniel-maxwell/) & [Erin Boyd](https://nutrition.tufts.edu/profile/faculty/erin-boyd)
