@@ -12,7 +12,7 @@ subtitle:
 
 <h3>[TIE] Sept 25, 2018: Environmental Brunch sponsored by Tufts Institute for the Environment</h3>
 
-<p><img src="/img/partners/tie_env_brunch.jpg" width="600px" align="center" hspace="10">
+<p><img src="/img/partners/tie_env_brunch.jpg" width="800px" align="center" hspace="10">
 
 <h3>[BCASA] Sept 25, 2018: Boston Chapter of the ASA Event to Celebrate Outstanding Undergraduate Teaching of Statistics</h3>
 
