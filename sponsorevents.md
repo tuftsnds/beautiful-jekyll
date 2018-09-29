@@ -6,7 +6,7 @@ subtitle:
 
 <h3> Boston Obesity Nutrition Datathon</h3>
 
-<p><img src="http://bondatathon.org/wp-content/uploads/2018/07/BOND_Logo-1.jpg" width="400px" align="center" hspace="10">
+<p><img src="http://bondatathon.org/wp-content/uploads/2018/07/BOND_Logo-1.jpg" width="400px" align="right" hspace="10">
 
 <p> The <a href="http://bondatathon.org/">Boston Obesity Nutrition Datathon</a> is an event to spark curiosity and foster the development of collaborations among the Boston community working in the data science space (engineers, data scientists), with the nutrition and obesity scientific community (researchers, clinicians, epidemiologists, biologists). Registered teams of up to five will be provided datasets from researchers in the field of obesity, nutrition, and public health on October 19. During the week after data sets become available, teams will work together to create compelling visualizations, identify patterns, and discover novel insights. A group of mentor volunteers with expertise in the fields of Nutrition and Obesity will be available for teams to consult. At the end of the week and 24 hours before the event, teams will each submit a 3-5 page report with conclusions to the judging panel. Teams will have 5 minutes to present their findings at the event. For more details about the Datathon, visit <a href="http://bondatathon.org/">bondatathon.org</a>
 
