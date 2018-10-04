@@ -30,6 +30,7 @@ navbar-links:
     - Mission: "mission"
   Conference: 
     - Program: "program"
+    - Bios: "bios"
     - Sessions: "sessions"
     - Speakers: "speakers"
     - Simulation: "simulation"
