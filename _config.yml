@@ -31,7 +31,6 @@ navbar-links:
   Conference: 
     - Program: "program"
     - Bios: "bios"
-    - Sessions: "sessions"
     - Speakers: "speakers"
     - Simulation: "simulation"
   Sponsors: 
