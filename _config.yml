@@ -29,9 +29,9 @@ navbar-links:
     - Goals: "goals"
     - Mission: "mission"
   Conference: 
+    - Presentations: "presentations"
     - Program: "program"
     - Bios: "bios"
-    - Speakers: "speakers"
     - Simulation: "simulation"
   Sponsors: 
     - Sponsors: "sponsors"
